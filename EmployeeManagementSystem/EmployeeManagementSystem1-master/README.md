@@ -1,14 +1,8 @@
-# EmployeeManagementSystem
-Employee Management System
+# Employee Management System
 
 Introduction
 
-I have used HTML, JSP and Java to create this webpage. This webpage gives the basic idea of the operations that can be performed usinf JSP.
-I have used JDBC concepts in collaboration with the JSP and HTML. For the basic understanding I have imported java code in the 
-JSP making it a front-end designing and coding website. 
+I have created this webpage using HTML, JSP, and Java. It provides an overview of the operations that can be performed with JSP. By integrating JDBC concepts with JSP and HTML, the page facilitates a basic understanding of embedding Java code within JSP, making it a comprehensive front-end design and coding project.
 
 Features
-
-This project will demonstrate how one can switch from one page to another using JSP while establishing a connection to the database. I have used CSS file to bring in the 
-style of the website. Apachey tomcat 8.5 is used with latest version of Eclipse Oxygen.
-
+This project showcases the ability to navigate between pages using JSP while connecting to a database. I have applied CSS for styling, and the development environment includes Apache Tomcat 8.5 and the latest version of Eclipse Oxygen.
